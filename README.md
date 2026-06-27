@@ -21,14 +21,14 @@ Il effectue les opérations suivantes :
 
 # Fonctionnalités
 
-- ✔ Sauvegarde complète (.bak)
-- ✔ Compression de la sauvegarde
-- ✔ Horodatage automatique
-- ✔ Création automatique du dossier de sauvegarde
-- ✔ Journalisation des opérations
-- ✔ Gestion des exceptions
-- ✔ Compatible avec le Planificateur de tâches Windows
-- ✔ Facilement personnalisable
+-  Sauvegarde complète (.bak)
+-  Compression de la sauvegarde
+-  Horodatage automatique
+-  Création automatique du dossier de sauvegarde
+-  Journalisation des opérations
+-  Gestion des exceptions
+-  Compatible avec le Planificateur de tâches Windows
+-  Facilement personnalisable
 
 ---
 
